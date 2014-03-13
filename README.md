@@ -1,0 +1,13 @@
+Coding-Practise
+===============
+Spoj
+testmycode
+codeeval
+codility
+topcoder
+codingbat.com
+devtest.net
+codechef.com
+facebook.interviewstreet.com
+coderbyte.com
+codingquiz.com
